@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Tgabriel05
 - 👀 I’m interested in Web and Mobile development
-- 🌱 I’m currently learning HTML,CSS,JAVASCRIPT
+- ✅ Languages: HTML,CSS,JAVASCRIPT
+- 🌱 I’m currently learning REACT, EXPRESS.JS, MONGOOSE
 - 💞️ I’m looking to collaborate on making differente styles and templates for websites adding some interactivity
 - 📫 How to reach me: IG:T_gabriel05
 - 😄 Pronouns: HE/HIS
